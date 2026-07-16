@@ -74,4 +74,5 @@ This tool is intended for educational purposes and authorized security testing o
 
 ## Author
 
-Gaurav
+CaptionMaster97
+
