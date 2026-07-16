@@ -1,0 +1,15 @@
+==================================================
+        SECURITY HEADERS CHECKER
+==================================================
+
+Checking security headers for: https://example.com
+
+==================================================
+✅ Content-Security-Policy        Present
+❌ Strict-Transport-Security      Missing
+✅ X-Frame-Options                Present
+✅ X-Content-Type-Options         Present
+❌ Referrer-Policy                Missing
+✅ Permissions-Policy             Present
+==================================================
+Scan Completed Successfully.
